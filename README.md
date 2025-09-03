@@ -1,4 +1,4 @@
-# Ethan E – DevOps & Infrastructure Engineer (Open to Relocation)
+# Ethan E – DevOps & Infrastructure Engineer
 
 I build fast, scalable, and secure infrastructure that just works.  
 From containerization to CI/CD, I help teams ship confidently, monitor proactively, and recover instantly.
@@ -16,7 +16,7 @@ From containerization to CI/CD, I help teams ship confidently, monitor proactive
 
 Docker · Kubernetes · AWS · GitHub Actions · Terraform · Ansible · Bash · Python · Linux · PostgreSQL · Redis · Nginx · HAProxy
 
-## Projects (Coming Soon)
+## Projects
 
 > Each project in this profile reflects practical infrastructure work:
 - `devops-lemp-stack`: LEMP + WordPress stack with secure Bash automation  
