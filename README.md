@@ -1,33 +1,28 @@
-# Ethan E – DevOps & Infrastructure Engineer
+# Ethan E
 
-I build fast, scalable, and secure infrastructure that just works.  
-From containerization to CI/CD, I help teams ship confidently, monitor proactively, and recover instantly.
+DevOps and infrastructure engineer focused on automation, cloud delivery, migrations, and troubleshooting.
 
-## What I Do
+## Current focus
 
-- Provision infrastructure using Terraform and Ansible  
-- Automate pipelines with GitHub Actions and Jenkins  
-- Manage Kubernetes clusters (EKS, GKE) for high-availability services  
-- Monitor systems using Prometheus, Grafana, and ELK  
-- Build scripts in Bash and Python for ops tooling and automation  
-- Support scalable deployments across AWS, GCP, and bare-metal setups
-
-## Tools I Work With
-
-Docker · Kubernetes · AWS · GitHub Actions · Terraform · Ansible · Bash · Python · Linux · PostgreSQL · Redis · Nginx · HAProxy
+- Linux, Bash and Ansible automation
+- Docker and container runtime hardening
+- CI/CD with GitHub Actions and Jenkins
+- AWS infrastructure with Terraform
+- Kubernetes, Helm and Argo CD
+- Prometheus, Grafana, Loki and Alloy
+- Deployment migration, cutover and rollback planning
 
 ## Projects
 
-> Each project in this profile reflects practical infrastructure work:
-- `devops-lemp-stack`: LEMP + WordPress stack with secure Bash automation  
-- `terraform-aws-wordpress`: Full EC2 deployment with IaC  
-- `vds-monitoring-scripts`: Custom Bash scripts for service and disk monitoring  
-- `ansible-server-hardening`: Ansible playbooks to securely provision new servers  
+### [Status API Platform Migration](https://github.com/Ethan-DE/ci-cd-pipeline-demo)
+Platform migration project built around one service and two deployment paths. It keeps an Ansible-managed VM and Jenkins pipeline as the source environment, then moves the same workload toward AWS EKS with Terraform, Helm, Argo CD and GitHub Actions. The repository also includes health checks, security scans, observability, parity checks, cutover steps and rollback procedures.
 
-## Status
+### `aws-terraform-ec2-setup`
+AWS network and EC2 infrastructure defined with Terraform, including a VPC, public subnet, routing, security group, inputs, and outputs.
 
-Based in Ukraine · Open to relocation
+### `ansible-nginx-automation`
+Repeatable NGINX provisioning on Ubuntu using Ansible, a template, handler, service management, and UFW.
 
-## Contact
+## Location
 
-**Email:** eradirideitie@gmail.com  
+Based in Ukraine and open to relocation.
